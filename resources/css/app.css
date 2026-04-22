@@ -8,6 +8,10 @@
     padding: 0;
 }
 
+[hidden] {
+    display: none !important;
+}
+
 :root {
     --color-bg: #0f1117;
     --color-surface: #1a1d27;
